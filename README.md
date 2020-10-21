@@ -11,4 +11,4 @@ A full list of participants can be obtained from https://c3-group.herokuapp.com/
 
 See the image below for an example of our final product.
 
-[![C3 Group Challenge]("http://g.recordit.co/j0MycM2yNk.gif")]("http://g.recordit.co/j0MycM2yNk.gif")
+[<img src="http://g.recordit.co/j0MycM2yNk.gif">](http://g.recordit.co/j0MycM2yNk.gif)
