@@ -9,7 +9,7 @@ We'll be choosing a winner for our C3 gift certificates and need your help to do
 - Use any language, tools, or libraries that you'd like.
 - Extra points for cool styling, animation, and web hosting.
 
-A full list of participants can be obtained from https://c3-group.herokuapp.com/groups
+A full list of participants can be obtained from https://c3-group.herokuapp.com/group.
 
 See the image below for an example of our final product.
 
